@@ -12,7 +12,7 @@ My mood:
 
 
 
-> \[MOOD NAME]
+> \Happy
 
 
 
@@ -20,7 +20,7 @@ My favorite color:
 
 
 
-> \[COLOR NAME]
+> \Blue
 
 
 
